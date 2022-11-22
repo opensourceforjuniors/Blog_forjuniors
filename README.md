@@ -15,5 +15,8 @@ Tecnologias utilizadas ⚒️
 
 </div>
 
+<div align="center">
 Link do boxicons: https://boxicons.com
 link do Jquery: https://releases.jquery.com/
+</div>
+  
